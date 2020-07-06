@@ -30,6 +30,10 @@ body{
 	box-shadow: 0 15px 40px rgba(0,0,0,.5);
 	color:black;
 }
+.container_aboutus p{
+	margin: 5;
+	
+}
 
 .logo_ab{
 	float:center;
